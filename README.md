@@ -15,7 +15,7 @@ The server can be run locally and also deployed to your own server. You will nee
 
 ````
 # Create an Spotify application
-Create an application on [Spotify's Developer Site](https://developer.spotify.com/my-applications/).
+Create an application on https://developer.spotify.com/my-applications/.
 
 # Add as redirect uris both
 Add as redirect uris both http://localhost:3000/auth/callback (for development) and <production_domain>/auth/callback (if you want to deploy your app somewhere).
