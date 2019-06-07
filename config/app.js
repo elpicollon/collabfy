@@ -1,3 +1,3 @@
 module.exports = {
-  HOST: 'https://collabfy.herokuapp.com/'
+  HOST: 'https://collabfy.herokuapp.com'
 };
