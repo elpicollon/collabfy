@@ -3,7 +3,6 @@
 A site where multiple users can propose songs and vote for them, having them played in a synchronised way through Spotify.
 
 ![List](https://i.imgur.com/G0KGydl.png)
-![Users](https://i.imgur.com/946mIpj.png)
 
 ## Prerequisites
 
